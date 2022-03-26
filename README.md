@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Yasmin Paksoy
+### 👋 Hi, I’m Yasmin
 - 📚 I’m a third year computer science student at Goldsmiths, University of London. 
 - 🚨 I’m currently learning about data mining and security & encryption.  
 - 🛠️ I’m working on my final project based on deep learning and natural language processing. 
